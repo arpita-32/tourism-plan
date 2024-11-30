@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tours.js"],"names":["Tours"],"mappings":";;;;;;;AAAA,SAASA,KAAT,GAAgB;AACZ;AACH;;eACcA,K","sourcesContent":["function Tours(){\n    return\n}\nexport default Tours;"],"file":"Tours.dev.js"}
